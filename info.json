@@ -1,4 +1,14 @@
 {
-  "ver": 1,
-  "whatNew": "Add update system"
+  "update": {
+    "ver": 1,
+    "whatNew": "Add update system"
+  },
+  "servers": {
+    "185.169.134.164:7777": {
+      "id": 1
+    },
+    "185.169.134.165:7777": {
+      "id": 2
+    }
+  }
 }
