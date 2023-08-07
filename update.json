@@ -1,14 +1,26 @@
 {
-  "update": {
-    "ver": 1,
-    "whatNew": "Add update system"
-  },
-  "servers": {
-    "185.169.134.164:7777": {
-      "id": 1
+    "latest": 1,
+    "version": "1.0 Beta",
+    "updateurl":"https://github.com/upcTest1/upc/blob/main/nexetools.luac",
+    "patch_load": false,
+    "critical": false,
+    "event": false,
+    "changes": [
+        "Добавлена система обновления"
+    ],
+    "servers": [
+        { "address": "185.169.134.164:7777", "id": 1 },
+        { "address": "185.169.134.165:7777", "id": 2 }
+    ],
+    "files": {
+        "gps": 16,
+        "gps_vc": 5,
+        "questions": 7,
+        "server_cmd": 3,
+        "admin_cmd": 5,
+        "vehicles": 8,
+        "skins": 5,
+        "giveoff": 6
     },
-    "185.169.134.165:7777": {
-      "id": 2
-    }
-  }
+    "api_url": "https://api.naxetools.tech/"
 }
