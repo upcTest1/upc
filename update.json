@@ -13,14 +13,14 @@
         { "address": "185.169.134.165:7777", "id": 2 }
     ],
     "files": {
-        "gps": 16,
-        "gps_vc": 5,
-        "questions": 7,
-        "server_cmd": 3,
-        "admin_cmd": 5,
-        "vehicles": 8,
-        "skins": 5,
-        "giveoff": 6
+        "gps": 0,
+        "gps_vc": 0,
+        "questions": 0,
+        "server_cmd": 30
+        "admin_cmd": 0,
+        "vehicles": 0,
+        "skins": 0,
+        "giveoff": 0
     },
     "api_url": "https://api.naxetools.tech/"
 }
