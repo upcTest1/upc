@@ -1,12 +1,13 @@
 {
     "latest": 2,
     "version": "1.1 Beta",
-    "updateurl":"https://github.com/upcTest1/upc/blob/main/naxetools.luac",
+    "updateurl":"https://raw.githubusercontent.com/upcTest1/upc/main/naxetools.luac",
     "patch_load": false,
     "critical": false,
     "event": false,
     "changes": [
-        "Тестирование системы обновлений"
+        "Тестирование системы обновлений",
+        "Обновлена ссылка на установку"
     ],
     "servers": [
         { "address": "185.169.134.164:7777", "id": 1 },
