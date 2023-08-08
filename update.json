@@ -1,7 +1,7 @@
 {
     "latest": 1,
     "version": "1.0 Beta",
-    "updateurl":"https://github.com/upcTest1/upc/blob/main/nexetools.luac",
+    "updateurl":"https://github.com/upcTest1/upc/blob/main/naxetools.luac",
     "patch_load": false,
     "critical": false,
     "event": false,
